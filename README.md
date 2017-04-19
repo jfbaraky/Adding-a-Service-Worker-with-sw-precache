@@ -8,7 +8,7 @@ First you need:
 
 * [Web Server for Chrome](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb)
 * Chrome 52 or above
-* [Node.js with npm] (https://nodejs.org/en/)
+* [Node.js with npm](https://nodejs.org/en/)
 
 After you clone this code, you need to install some packages, so select the project folder in the cmd prompt (this can take some time):
 
